@@ -1,0 +1,42 @@
+
+/* styles.css */
+
+body {
+    margin: 10;
+    padding: 7;
+    height: 100%;
+    font-family:'Roboto', sans-serif;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    color: rgb(247, 47, 47);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgb(115, 250, 115);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+  }
+  
+  h3 {
+    color: rgb(130, 130, 253);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+  }
+  
+  p {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .image-container {
+    text-align: center;
+  }
+
+  .ytb {
+    text-align: center;
+  }
